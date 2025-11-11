@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jack Morray
+## 👋 Hi, I'm Jack
 
 I'm a Computer Science student at Queen Mary University of London, passionate about software development, problem solving, and exploring how technology shapes real-world experiences. I am currently building my skills across object-oriented programming, web development, and software engineering principles, and I am working toward a placement year in 2026.
 
