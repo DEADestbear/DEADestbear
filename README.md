@@ -26,7 +26,7 @@ I enjoy learning new technologies, working on creative coding projects, and coll
 
 ## 📎 Links
 
-- 📄 **CV:** *Add link here once uploaded*
+- 📄 **CV:** <a herf="Jack Morray's CV-5.pdf" download>Jack's Cv</a>
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/jack-morray-03b421275/
 - 🧑‍💻 **GitHub:** https://github.com/DEADestbear
 
