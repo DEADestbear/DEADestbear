@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="giphy.gif" width="150" height="150">
+  <img src="picture.jpg" width="150" height="150">
   <h1>Hello, My name is Jack</h1>
   <h3>This my github</h3>
   <p>I’m currently studying Computer Science at QMUL. I enjoy playing games as well as making them in my free time. Have a look around, and if you have any questions, feel free to get in touch at Jmorray11@gmail.com</p>      
