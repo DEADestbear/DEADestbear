@@ -6,7 +6,7 @@
   <h3>Other Info</h3>
   <p>
     <a href="https://www.linkedin.com/in/jack-morray-03b421275">LinkedIn</a> |
-    <a href="">CV</a>
+    <a href="Jack Morray's CV-5.pdf">CV</a>
     
   </p>
 </div>
